@@ -1,0 +1,15 @@
+/Users/mak/Projects/NextLab/NextLab/bin/Debug/net7.0/NextLab
+/Users/mak/Projects/NextLab/NextLab/bin/Debug/net7.0/NextLab.deps.json
+/Users/mak/Projects/NextLab/NextLab/bin/Debug/net7.0/NextLab.runtimeconfig.json
+/Users/mak/Projects/NextLab/NextLab/bin/Debug/net7.0/NextLab.dll
+/Users/mak/Projects/NextLab/NextLab/bin/Debug/net7.0/NextLab.pdb
+/Users/mak/Projects/NextLab/NextLab/obj/Debug/net7.0/NextLab.csproj.AssemblyReference.cache
+/Users/mak/Projects/NextLab/NextLab/obj/Debug/net7.0/NextLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Projects/NextLab/NextLab/obj/Debug/net7.0/NextLab.AssemblyInfoInputs.cache
+/Users/mak/Projects/NextLab/NextLab/obj/Debug/net7.0/NextLab.AssemblyInfo.cs
+/Users/mak/Projects/NextLab/NextLab/obj/Debug/net7.0/NextLab.csproj.CoreCompileInputs.cache
+/Users/mak/Projects/NextLab/NextLab/obj/Debug/net7.0/NextLab.dll
+/Users/mak/Projects/NextLab/NextLab/obj/Debug/net7.0/refint/NextLab.dll
+/Users/mak/Projects/NextLab/NextLab/obj/Debug/net7.0/NextLab.pdb
+/Users/mak/Projects/NextLab/NextLab/obj/Debug/net7.0/NextLab.genruntimeconfig.cache
+/Users/mak/Projects/NextLab/NextLab/obj/Debug/net7.0/ref/NextLab.dll
