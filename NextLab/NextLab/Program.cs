@@ -17,7 +17,7 @@ namespace CarsChek
             cars.Add(car);
         }
 
-        // Делегирование помывки автомобилей мойке
+        
         public void WashAllCars(Washer washer)
         {
             foreach (Car car in cars)
